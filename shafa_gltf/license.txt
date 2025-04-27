@@ -1,0 +1,11 @@
+Model Information:
+* title:	Shafa Gltf
+* source:	https://sketchfab.com/3d-models/shafa-gltf-1212a60c0be343b4b6d64a66aae0fca7
+* author:	163 (https://sketchfab.com/163)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Shafa Gltf" (https://sketchfab.com/3d-models/shafa-gltf-1212a60c0be343b4b6d64a66aae0fca7) by 163 (https://sketchfab.com/163) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
